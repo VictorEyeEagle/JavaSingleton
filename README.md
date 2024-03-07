@@ -1,1 +1,1 @@
-Este projeto é uma demonstração simples do **Padrão de Projeto Singleton** em Java. O objetivo é garantir que uma classe tenha apenas uma instância e fornecer um ponto de acesso global a ela.
+This project is a simple demonstration of the **Singleton Design Pattern** in Java. The goal is to ensure that a class has only one instance and provide a global access point to it.
